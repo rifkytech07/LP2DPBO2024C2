@@ -1,0 +1,3 @@
+$data1 = new Shirt("111", "SportJacket", "Adidas", "Rp.9000000", "L", "Katun", "Man", "Blue", "LongSleeve");
+$data2 = new Shirt('112', 'T-Shirt', 'Erigo', 'Rp.700000', 'L', 'Katun', 'Man', 'Black', 'ShortSleeve');
+$data3 = new Shirt('113', 'Sweatshirt', 'Nike', 'Rp.9000000', 'L', 'Katun', 'Man', 'White', 'LongSleeve');
