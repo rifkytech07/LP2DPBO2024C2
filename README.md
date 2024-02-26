@@ -8,9 +8,9 @@ melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 # Deskripsi
 # Desain Program
 Membuat program berbasis OOP menggunakan bahasa pemrograman C++, Java, Python, dan PHP yang mengimplementasikan konsep Multi-level Inheritance  pada kelas - kelas seperti: 
-Product(idProduct, name, brand, price), 
-Clothing(size, material, gender), dan 
-Shirt(color, sleeve_type)
+1. Product(idProduct, name, brand, price), 
+2. Clothing(size, material, gender), dan 
+3. Shirt(color, sleeve_type)
 
 # Desain alur
 
