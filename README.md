@@ -19,6 +19,13 @@ Membuat program berbasis OOP menggunakan bahasa pemrograman C++, Java, Python, d
 # Desain Program
 1. Masukkan input data data
 2. Setelah memasukkan data, maka program akan menampilkan list
+<img width="641" alt="Tambah(1)" src="https://github.com/rifkytech07/LP2DPBO2024C2/assets/147624515/721aadeb-1e85-41ea-8f35-76beb3477545">
+<img width="587" alt="Tambah(2)" src="https://github.com/rifkytech07/LP2DPBO2024C2/assets/147624515/817a26f5-643f-4da6-90ac-7f6625cc23c6">
+<img width="584" alt="Tambah(3)" src="https://github.com/rifkytech07/LP2DPBO2024C2/assets/147624515/6db21575-c8b2-4fb9-a3cb-7ca37dc5f57d">
+<img width="443" alt="Tampil Data" src="https://github.com/rifkytech07/LP2DPBO2024C2/assets/147624515/37fc97f6-dc74-478b-9ffb-2f8a2b6a42c7">
+
+
+
 
 
 
