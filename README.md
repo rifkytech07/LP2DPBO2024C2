@@ -16,5 +16,9 @@ Shirt(color, sleeve_type)
 
 ![Diagram LP2 drawio](https://github.com/rifkytech07/LP2DPBO2024C2/assets/147624515/e3ea5a33-33df-47f1-bc1c-1f180bfc38ec)
 
+# Desain Program
+1. Masukkan input data data
+2. Setelah memasukkan data, maka program akan menampilkan list
+
 
 
